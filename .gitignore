@@ -1,0 +1,35 @@
+# OSごみファイル
+.DS_Store
+Thumbs.db
+Icon?
+Desktop.ini
+
+# Eclipse ビルド成果物
+bin/
+target/
+out/
+build/
+
+# Javaビルド成果物
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE固有
+
+# Eclipse 専用ファイルは管理するためコメントアウト
+# .project
+# .classpath
+# .settings/
+
+.idea/
+*.iml
+
+# その他 一時ファイル・ログ
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.o*
