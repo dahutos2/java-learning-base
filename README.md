@@ -25,7 +25,7 @@
       File > Import > General > Existing Project into Workspace
       ```
       → `java-learning-base` を選択。
-     - **各子プロジェクト (selflearn, sharedlib, sampleapp)** を Java Project として個別にインポート
+     - **各子プロジェクト (selflearn, mylib)** を Java Project として個別にインポート
       ```
       File > Import > Existing Projects into Workspace
       ```
